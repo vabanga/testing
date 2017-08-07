@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Максим Максимыч",
+        "login": "max",
+        "password": "123"
+    },
+    {
+        "id": 2,
+        "name": "Аркадий Петрович",
+        "login": "arc",
+        "password": "345"
+    },
+    {
+        "id": 3,
+        "login": "ress",
+        "password": "123",
+        "name": "ress"
+    },
+    {
+        "id": 4,
+        "login": "mem",
+        "password": "123",
+        "name": "mem"
+    }
+]
